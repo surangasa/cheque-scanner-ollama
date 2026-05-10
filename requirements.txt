@@ -1,0 +1,7 @@
+PyQt6>=6.5.0
+PyMuPDF>=1.23.0
+ollama>=0.3.0
+pandas>=2.0.0
+hijri-converter>=2.3.0
+pytesseract>=0.3.10
+pyinstaller>=6.0; sys_platform == "win32"
